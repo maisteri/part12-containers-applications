@@ -1,0 +1,21 @@
+Script started on 2023-07-19 11:56:53+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="88" LINES="21"]
+[?2004h]0;attek@DESKTOP-IHE3I71: /mnt/c/Users/35840/source/fullStack/part12-containers-applications[01;32mattek@DESKTOP-IHE3I71[00m:[01;34m/mnt/c/Users/35840/source/fullStack/part12-containers-applications[00m$ [7mdocker run -it ubuntu bash[27m[C[Cdocker run -it ubuntu bash
+[?2004lUnable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K3153aa388d02: Pulling fs layer [1B[1A[2K3153aa388d02: Downloading  309.6kB/29.53MB[1B[1A[2K3153aa388d02: Downloading  1.243MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  2.169MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  3.091MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  4.332MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  5.577MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  6.802MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  8.047MB/29.53MB[1B[1A[2K3153aa388d02: Downloading   9.28MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  10.53MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  12.68MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  13.61MB/29.53MB[1B[1A[2K3153aa388d02: Downloading   16.7MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  18.57MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  20.44MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  22.31MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  24.17MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  26.03MB/29.53MB[1B[1A[2K3153aa388d02: Downloading  27.57MB/29.53MB[1B[1A[2K3153aa388d02: Verifying Checksum [1B[1A[2K3153aa388d02: Download complete [1B[1A[2K3153aa388d02: Extracting  327.7kB/29.53MB[1B[1A[2K3153aa388d02: Extracting  3.604MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  6.881MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  8.192MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  10.16MB/29.53MB[1B[1A[2K3153aa388d02: Extracting   15.4MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  20.64MB/29.53MB[1B[1A[2K3153aa388d02: Extracting   24.9MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  25.89MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  28.18MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  29.16MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  29.49MB/29.53MB[1B[1A[2K3153aa388d02: Extracting  29.53MB/29.53MB[1B[1A[2K3153aa388d02: Pull complete [1BDigest: sha256:0bced47fffa3361afa981854fcabcd4577cd43cebbb808cea2b1f33a3dd7f508
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@d62516f30b6e: /root@d62516f30b6e:/# mkdir [7m/usr/src/app[27m/usr/src/app
+[?2004l[?2004h]0;root@d62516f30b6e: /root@d62516f30b6e:/# tocuh     uch [7m/usr/src/app/index.js[27m/usr/src/app/index.js
+[?2004l[?2004h]0;root@d62516f30b6e: /root@d62516f30b6e:/# [Kcd usr/
+[?2004l[?2004h]0;root@d62516f30b6e: /usrroot@d62516f30b6e:/usr# cd src/
+[?2004l[?2004h]0;root@d62516f30b6e: /usr/srcroot@d62516f30b6e:/usr/src# cd app/
+[?2004l[?2004h]0;root@d62516f30b6e: /usr/src/approot@d62516f30b6e:/usr/src/app# dir
+[?2004lindex.js
+[?2004h]0;root@d62516f30b6e: /usr/src/approot@d62516f30b6e:/usr/src/app# cat index.js 
+[?2004l[?2004h]0;root@d62516f30b6e: /usr/src/approot@d62516f30b6e:/usr/src/app# exit
+[?2004lexit
+[?2004h]0;attek@DESKTOP-IHE3I71: /mnt/c/Users/35840/source/fullStack/part12-containers-applications[01;32mattek@DESKTOP-IHE3I71[00m:[01;34m/mnt/c/Users/35840/source/fullStack/part12-containers-applications[00m$ exit
+[?2004lexit
+
+Script done on 2023-07-19 11:58:26+03:00 [COMMAND_EXIT_CODE="0"]
